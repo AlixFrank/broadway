@@ -27,3 +27,13 @@ p{
     font-size: 11px;
     color: white;
 }
+
+.header{
+    background-image: url("../images/the-flatiron-building.png");
+}
+
+.brand{
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+}
